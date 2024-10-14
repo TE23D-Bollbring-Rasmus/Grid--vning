@@ -9,5 +9,6 @@ header{
 nav{
     border: solid red 2px;
     display: grid;
-    grid-row: 20px;
+    grid-template-columns: 1fr   2fr  1fr;
+    grid-template-rows: 3vh 1vh;
 }
