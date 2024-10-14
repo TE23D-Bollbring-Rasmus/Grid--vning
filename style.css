@@ -1,0 +1,13 @@
+div{
+
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    border: solid red 2px;
+    display: grid;
+    grid-row: 20px;
+}
